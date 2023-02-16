@@ -94,13 +94,6 @@ class Demo extends Controller
 - ![](https://static.oschina.net/uploads/img/201704/17101348_XuUz.png)
 - ![](https://static.oschina.net/uploads/img/201704/17101306_KePe.png)
 
-###更多支持
-- QQ群663447446
-
-###赞助二维码
-- ![](https://static.oschina.net/uploads/space/2018/0601/163814_StfS_270003.jpg)
-- ![](https://static.oschina.net/uploads/space/2018/0601/163835_MOVe_270003.jpg)
-
 ###2017年8月16日更新
 - 增加头部参数设置，根据自己需求去设置参数
 - 增加全局参数设置及类参数设置，全局参数设置可以doc.php public_param、public_header配置，类局部公用参数可在class下面进行设置，详见demo.php
